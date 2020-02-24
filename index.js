@@ -72,7 +72,7 @@ map.on("load", function () {
     //add data
     map.addSource("data", {
         'type': "geojson",
-        'data': "https://gist.githubusercontent.com/Suekim37/09bcb00a67e8e0fe97831d4f9f3a744c/raw/957ba64ae200750ad2f29c2379640c0d53243891/json"
+        'data': "https://gist.githubusercontent.com/Sue-kim/09bcb00a67e8e0fe97831d4f9f3a744c/raw/957ba64ae200750ad2f29c2379640c0d53243891/json"
 
     });
 
